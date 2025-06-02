@@ -1,0 +1,79 @@
+{
+    "categorias": [
+      {
+        "nome": "Salgados",
+        "icone": "fas fa-pizza-slice"
+      },
+      {
+        "nome": "Bebidas",
+        "icone": "fas fa-glass-martini-alt"
+      },
+      {
+        "nome": "Bolo de pote",
+        "icone": "fas fa-birthday-cake"
+      },
+      {
+        "nome": "Trufas",
+        "icone": "fas fa-cookie-bite"
+      }
+    ],
+    "produtos": [
+      {
+        "id": 1,
+        "nome": "Croissant de Frango",
+        "preco": 8.00,
+        "categoria": "Salgados",
+        "imagem": "img/croissant-frango.jpg"
+      },
+      {
+        "id": 2,
+        "nome": "Bolo de pote de Chocolate",
+        "preco": 12.00,
+        "categoria": "Bolo de pote",
+        "imagem": "img/bolo-chocolate.jpg"
+      },
+      {
+        "id": 3,
+        "nome": "Croissant de Calabresa",
+        "preco": 8.00,
+        "categoria": "Salgados",
+        "imagem": "img/croissant-calabresa.jpg"
+      },
+      {
+        "id": 4,
+        "nome": "Trufa de Morango",
+        "preco": 5.00,
+        "categoria": "Trufas",
+        "imagem": "img/trufa-morango.jpg"
+      },
+      {
+        "id": 5,
+        "nome": "Suco Natural de Laranja",
+        "preco": 6.00,
+        "categoria": "Bebidas",
+        "imagem": "img/suco-laranja.jpg"
+      },
+      {
+        "id": 6,
+        "nome": "Bolo de Pote de Leite Ninho",
+        "preco": 10.00,
+        "categoria": "Bolo de pote",
+        "imagem": "img/bolo-ninho.jpg"
+      },
+      {
+        "id": 7,
+        "nome": "Suco Natural de Goiaba",
+        "preco": 6.00,
+        "categoria": "Bebidas",
+        "imagem": "img/suco-laranja.jpg"
+      },
+      {
+      "id": 6,
+      "nome": "Suco Natural de Morango",
+      "preco": 6.00,
+      "categoria": "Bebidas",
+      "imagem": "img/suco-laranja.jpg"
+    }
+    ]
+  }
+  
