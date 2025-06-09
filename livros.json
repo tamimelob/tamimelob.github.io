@@ -1,0 +1,275 @@
+{
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "Dom Casmurro",
+      "autor": "Machado de Assis",
+      "categoria": "Romance",
+      "ano": 1899,
+      "disponivel": true,
+      "capa": "img/livros/dom-casmurro.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "A Moreninha",
+      "autor": "Joaquim Manuel de Macedo",
+      "categoria": "Romance",
+      "ano": 1844,
+      "disponivel": true,
+      "capa": "img/livros/a-moreninha.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "O Cortiço",
+      "autor": "Aluísio Azevedo",
+      "categoria": "Naturalismo",
+      "ano": 1890,
+      "disponivel": false,
+      "capa": "img/livros/o-cortico.jpg"
+    },
+    {
+      "id": 4,
+      "titulo": "Vidas Secas",
+      "autor": "Graciliano Ramos",
+      "categoria": "Realismo",
+      "ano": 1938,
+      "disponivel": true,
+      "capa": "img/livros/vidas-secas.jpg"
+    },
+    {
+      "id": 5,
+      "titulo": "Capitães da Areia",
+      "autor": "Jorge Amado",
+      "categoria": "Ficção",
+      "ano": 1937,
+      "disponivel": false,
+      "capa": "img/livros/capitaes-da-areia.jpg"
+    },
+    {
+      "id": 6,
+      "titulo": "Senhora",
+      "autor": "José de Alencar",
+      "categoria": "Romance",
+      "ano": 1875,
+      "disponivel": true,
+      "capa": "img/livros/senhora.jpg"
+    },
+    {
+      "id": 7,
+      "titulo": "O Pequeno Príncipe",
+      "autor": "Antoine de Saint-Exupéry",
+      "categoria": "Infantil",
+      "ano": 1943,
+      "disponivel": true,
+      "capa": "img/livros/pequeno-principe.jpg"
+    },
+    {
+      "id": 8,
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "categoria": "Distopia",
+      "ano": 1949,
+      "disponivel": true,
+      "capa": "img/livros/1984.jpg"
+    },
+    {
+      "id": 9,
+      "titulo": "A Revolução dos Bichos",
+      "autor": "George Orwell",
+      "categoria": "Fábula política",
+      "ano": 1945,
+      "disponivel": false,
+      "capa": "img/livros/revolucao-dos-bichos.jpg"
+    },
+    {
+      "id": 10,
+      "titulo": "A Cabana",
+      "autor": "William P. Young",
+      "categoria": "Drama",
+      "ano": 2007,
+      "disponivel": true,
+      "capa": "img/livros/a-cabana.jpg"
+    },
+
+    {
+      "id": 11,
+      "titulo": "O Alquimista",
+      "autor": "Paulo Coelho",
+      "categoria": "Ficção",
+      "ano": 1988,
+      "disponivel": true,
+      "capa": "img/livros/o-alquimista.jpg"
+    },
+    {
+      "id": 12,
+      "titulo": "Harry Potter e a Pedra Filosofal",
+      "autor": "J.K. Rowling",
+      "categoria": "Fantasia",
+      "ano": 1997,
+      "disponivel": true,
+      "capa": "img/livros/harry-potter-1.jpg"
+    },
+    {
+      "id": 13,
+      "titulo": "Orgulho e Preconceito",
+      "autor": "Jane Austen",
+      "categoria": "Romance",
+      "ano": 1813,
+      "disponivel": true,
+      "capa": "img/livros/orgulho-preconceito.jpg"
+    },
+    {
+      "id": 14,
+      "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+      "autor": "J.R.R. Tolkien",
+      "categoria": "Fantasia",
+      "ano": 1954,
+      "disponivel": false,
+      "capa": "img/livros/sociedade-do-anel.jpg"
+    },
+    {
+      "id": 15,
+      "titulo": "Percy Jackson e o Ladrão de Raios",
+      "autor": "Rick Riordan",
+      "categoria": "Aventura",
+      "ano": 2005,
+      "disponivel": true,
+      "capa": "img/livros/percy-jackson.jpg"
+    },
+    {
+      "id": 16,
+      "titulo": "A Culpa é das Estrelas",
+      "autor": "John Green",
+      "categoria": "Drama",
+      "ano": 2012,
+      "disponivel": false,
+      "capa": "img/livros/a-culpa-e-das-estrelas.jpg"
+    },
+    {
+      "id": 17,
+      "titulo": "O Código Da Vinci",
+      "autor": "Dan Brown",
+      "categoria": "Suspense",
+      "ano": 2003,
+      "disponivel": true,
+      "capa": "img/livros/codigo-da-vinci.jpg"
+    },
+    {
+      "id": 18,
+      "titulo": "It: A Coisa",
+      "autor": "Stephen King",
+      "categoria": "Terror",
+      "ano": 1986,
+      "disponivel": true,
+      "capa": "img/livros/it.jpg"
+    },
+    {
+      "id": 19,
+      "titulo": "O Iluminado",
+      "autor": "Stephen King",
+      "categoria": "Terror",
+      "ano": 1977,
+      "disponivel": false,
+      "capa": "img/livros/o-iluminado.jpg"
+    },
+    {
+      "id": 20,
+      "titulo": "O Hobbit",
+      "autor": "J.R.R. Tolkien",
+      "categoria": "Fantasia",
+      "ano": 1937,
+      "disponivel": true,
+      "capa": "img/livros/o-hobbit.jpg"
+    },
+    {
+      "id": 21,
+      "titulo": "A Menina que Roubava Livros",
+      "autor": "Markus Zusak",
+      "categoria": "Drama",
+      "ano": 2005,
+      "disponivel": true,
+      "capa": "img/livros/menina-que-roubava.jpg"
+    },
+    {
+      "id": 22,
+      "titulo": "Jogos Vorazes",
+      "autor": "Suzanne Collins",
+      "categoria": "Distopia",
+      "ano": 2008,
+      "disponivel": true,
+      "capa": "img/livros/jogos-vorazes.jpg"
+    },
+    {
+      "id": 23,
+      "titulo": "Coraline",
+      "autor": "Neil Gaiman",
+      "categoria": "Fantasia sombria",
+      "ano": 2002,
+      "disponivel": true,
+      "capa": "img/livros/coraline.jpg"
+    },
+    {
+      "id": 24,
+      "titulo": "Drácula",
+      "autor": "Bram Stoker",
+      "categoria": "Terror",
+      "ano": 1897,
+      "disponivel": false,
+      "capa": "img/livros/dracula.jpg"
+    },
+    {
+      "id": 25,
+      "titulo": "Frankenstein",
+      "autor": "Mary Shelley",
+      "categoria": "Terror",
+      "ano": 1818,
+      "disponivel": true,
+      "capa": "img/livros/frankenstein.jpg"
+    },
+    {
+      "id": 26,
+      "titulo": "O Diário de Anne Frank",
+      "autor": "Anne Frank",
+      "categoria": "Biografia",
+      "ano": 1947,
+      "disponivel": true,
+      "capa": "img/livros/diario-anne-frank.jpg"
+    },
+    {
+      "id": 27,
+      "titulo": "A Metamorfose",
+      "autor": "Franz Kafka",
+      "categoria": "Ficção",
+      "ano": 1915,
+      "disponivel": true,
+      "capa": "img/livros/metamorfose.jpg"
+    },
+    {
+      "id": 28,
+      "titulo": "Fahrenheit 451",
+      "autor": "Ray Bradbury",
+      "categoria": "Distopia",
+      "ano": 1953,
+      "disponivel": true,
+      "capa": "img/livros/fahrenheit-451.jpg"
+    },
+    {
+      "id": 29,
+      "titulo": "Ensaio Sobre a Cegueira",
+      "autor": "José Saramago",
+      "categoria": "Ficção",
+      "ano": 1995,
+      "disponivel": false,
+      "capa": "img/livros/ensaio-cegueira.jpg"
+    },
+    {
+      "id": 30,
+      "titulo": "Memórias Póstumas de Brás Cubas",
+      "autor": "Machado de Assis",
+      "categoria": "Romance",
+      "ano": 1881,
+      "disponivel": true,
+      "capa": "img/livros/bras-cubas.jpg"
+    }
+  ]
+}
